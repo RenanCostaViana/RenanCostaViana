@@ -6,3 +6,16 @@ No mercado de trabalho tive a oportunidade de trabalhar em bancos de grande port
 
 Já no Banco Pan, incicialmente trabalhei com Relaçoes com Investidores e Captação de Renda Fixa. Apesar de serem áres mais focadas nos negócios, tive a oportunidade de utilizar meus conhecimentos mais técnicos com Excel, agilizando a execução de tarefas repetitivas ou até mesmo gerando novos insights sobre as informações disponíveis. Porém, foi quando me tornei Analista de Tesouraria (ALM) que pude realmente testar so limites dos meus conhecimentos. Reorganizei planilhas, diminuindo o tempo de processamento em torno de 50%, e criei novos relatórios e visões, tanto para a área quanto para a diretoria do banco. Além disso comecei a documentar os processos, o que facilitou bastante a passagem de atividades para novos estagiários ou analistas.
 
+Me dei um período sabático para cuidar da minha saúde física e mental, aproveitando também para cuidar de projetos pessoais que já me interessavam a um bom tempo. Retorno com a decisão de fazer uma transição de carreira para Análise de Dados e Business Intelligence depois de refletir sobre a minha trajetória. Apesar de ter trabalhado bastante com finanças e da minha formação em economia, grande parte do meu trabalho foi focado em habilidades mais técnicas, como Excel, VBA, SQL e R, e essa transição é a opção mais lógica para a minha carreira.
+
+E este portfólo é um dos meus passos nessa direção. Um lugar para armazenar os desafios que aceitei para melhorar minhas habilidades e os exemplos do que sou capaz de fazer.
+
+## Meus Projetos
+
+- Challenge-BI-1
+
+O primeiro desafio de Business Intelligence da Alura. Nele foram desenvolvidos dashboards de empresas fictícas de setores variados, usando ferramentas do Excel (fórmulas, PowerPivot, PowerQuery)
+
+- Challenge-Dados-1
+
+O primeiro desafio de Ciência de Dados da Alura. Nele foi desenvolvido um código SQL para consulta e extração de informações de um banco de dados.
