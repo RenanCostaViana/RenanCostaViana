@@ -18,4 +18,15 @@ O primeiro desafio de Business Intelligence da Alura. Nele foram desenvolvidos d
 
 - Challenge-Dados-1
 
-O primeiro desafio de Ciência de Dados da Alura. Nele foi desenvolvido um código SQL para consulta e extração de informações de um banco de dados.
+O primeiro desafio de Dados da Alura. Nele foi desenvolvido um código SQL para consulta e extração de informações de um banco de dados.
+
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="100" height="100"/>
+          
+## Contatos:
+
+<div>
+<a href = "mailto:renan.cv@outlook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renancostaviana" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
