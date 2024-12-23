@@ -1,6 +1,4 @@
 ## Olá! Meu nome é Renan! E esse é o meu portfólio! 👋
-Sou formado em economia, com mais de 7 anos de experiência no mercado financeiro e atualmente em transição de carreira para Análise de Dados e Business Intelligence!
-
 <details> <summary>Sobre Mim</summary>
 
 Sou formado em Ciências Econômicas e Ciências e Humanidades pela Universidade Federal do ABC (UFABC). Já fui vice-campeão estadual na Gincana de Economia e obtive o terceiro lugar na etapa nacional. Participei de diversas atividades de liderança estudantil como membro do Diretório Central dos Estudantes e representante discente na Comissão Própria de Avaliação, além de ter feito um breve intercâmbio na Mount Saint Mary College para estudar finanças e inglês corporativo.
