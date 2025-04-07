@@ -22,5 +22,3 @@ Challenge-Dados-1: O primeiro desafio de Dados da Alura. Desenvolvi um código S
 
 ## Contatos:
 <div> <a href="mailto:renan.cv@outlook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/renancostaviana" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
-
-Espero que tenha ficado do seu agrado! Se precisar de mais alguma coisa, estou à disposição. 😊
