@@ -1,3 +1,5 @@
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="renancostaviana" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/renancostaviana?trk=profile-badge">Renan Costa Viana</a></div>
+
 ## Olá! Meu nome é Renan! E esse é o meu portfólio! 👋
 <details> <summary>Sobre Mim</summary>
 
