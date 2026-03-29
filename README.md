@@ -1,24 +1,94 @@
-## Olá! Meu nome é Renan! E esse é o meu portfólio! 👋
-<details> <summary>Sobre Mim</summary>
+# 👋 Olá! Eu sou o Renan Costa Viana
 
-Sou formado em Ciências Econômicas e Ciências e Humanidades pela Universidade Federal do ABC (UFABC). Já fui vice-campeão estadual na Gincana de Economia e obtive o terceiro lugar na etapa nacional. Participei de diversas atividades de liderança estudantil como membro do Diretório Central dos Estudantes e representante discente na Comissão Própria de Avaliação, além de ter feito um breve intercâmbio na Mount Saint Mary College para estudar finanças e inglês corporativo.
+### 📊 Analista de Dados & Business Intelligence  
+### 🔍 Transformo dados em decisões estratégicas usando Python, SQL e Power BI
 
-No mercado de trabalho, tive a oportunidade de atuar em bancos de grande porte. No Itaú Unibanco, fui estagiário de Orçamento e Controle, gerando diversos relatórios e indicadores para diferentes áreas de atendimento ao cliente. Criei um indicador para a área de câmbio do zero, utilizando dados do tempo de atendimento de diferentes ligações e transformando suas estatísticas em formatos mais fáceis de visualizar.
+Economista com experiência em Tesouraria (ALM), Inteligência de Negócios e Análise de Dados.  
+Atuo construindo análises, modelos e dashboards que impulsionam eficiência, performance e tomada de decisão.  
+Atualmente cursando Pós-Graduação em **Data Analytics (FIAP)** e desenvolvendo projetos práticos em **Python, SQL, Machine Learning e BI**.
 
-No Banco Pan, inicialmente trabalhei com Relações com Investidores e Captação de Renda Fixa. Embora essas áreas fossem mais focadas nos negócios, utilizei meus conhecimentos técnicos em Excel para agilizar a execução de tarefas repetitivas e gerar novos insights sobre as informações disponíveis. Como Analista de Tesouraria (ALM), reorganizei planilhas, reduzindo o tempo de processamento em cerca de 50%, e criei novos relatórios e visões tanto para a área quanto para a diretoria do banco. Além disso, comecei a documentar os processos, facilitando a transição de atividades para novos estagiários ou analistas.
+---
 
-Me dei um período sabático para cuidar da minha saúde física e mental, e também para desenvolver projetos pessoais de interesse. Decidi fazer uma transição de carreira para Análise de Dados e Business Intelligence, refletindo sobre minha trajetória profissional. Apesar de minha formação em economia e experiência em finanças, grande parte do meu trabalho foi focada em habilidades técnicas como Excel, VBA, SQL e R, tornando essa transição uma escolha lógica para minha carreira.
+## 🚀 Tech Stack
 
-Este portfólio é um dos passos nessa direção, um lugar para armazenar os desafios que aceitei para melhorar minhas habilidades e exemplos do que sou capaz de realizar. </details>
+**Linguagens:** Python • SQL • DAX • VBA  
+**Ferramentas:** Power BI • Excel Avançado • Power Query • Power Pivot  
+**Bibliotecas:** Pandas • NumPy • Scikit-learn • Seaborn • Matplotlib  
+**Ambiente & Engenharia:** Git • Databricks • PySpark • dbt (básico)  
+**Outros:** Storytelling com dados • Modelagem de dados • ETL • Machine Learning
 
-<details> <summary>Meus Projetos</summary>
+---
 
-Challenge-BI-1: O primeiro desafio de Business Intelligence da Alura. Desenvolvi dashboards para empresas fictícias de setores variados, usando ferramentas do Excel (fórmulas, PowerPivot, PowerQuery).
+## 📂 Projetos em Destaque
 
-Challenge-Dados-1: O primeiro desafio de Dados da Alura. Desenvolvi um código SQL para consulta e extração de informações de um banco de dados. </details>
+### 🔥 1. **Pipeline Completo de Dados – Python + SQL + Power BI**  
+**Repositório:** [Challenge-Dados-I](https://github.com/RenanCostaViana/Challenge-Dados-I)  
+Pipeline de ponta a ponta com ingestão, limpeza, EDA, modelagem e dashboard final.  
+- Python para tratamento e análise  
+- SQL para consultas e validações  
+- Power BI para KPIs e storytelling  
+- Insights acionáveis para negócio
 
-## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="100" height="100"/>
+---
 
-## Contatos:
-<div> <a href="mailto:renan.cv@outlook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/renancostaviana" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+### 🤖 2. **Classificação de Nível de Obesidade (Machine Learning)**  
+**Repositório:** [obesity-level](https://github.com/RenanCostaViana/obesity-level)  
+Modelo de classificação com comparação de algoritmos e métricas.  
+- EDA completa  
+- Pré-processamento  
+- Teste de múltiplos modelos  
+- Matriz de confusão e avaliação
+
+---
+
+### 🧠 3. **HR Analytics – Previsão de Saída de Funcionários**  
+**Repositório:** (em breve separado da pós)  
+Modelo de classificação para prever turnover.  
+- Feature engineering  
+- Comparação de modelos  
+- Insights para RH e retenção
+
+---
+
+### 🍷 4. **Análise de Vinhos Tintos Portugueses (EDA + Storytelling)**  
+**Repositório:** (em breve separado da pós)  
+Exploração completa do dataset, correlações e fatores que influenciam a qualidade.  
+- Visualizações  
+- Insights  
+- Análise estatística
+
+---
+
+## 📊 Projetos Complementares
+
+### 🩺 **Cardio Olhar – Análise de Saúde**  
+Aplicação Python estruturada com análise de dados clínicos.  
+**Repositório:** [cardio-olhar](https://github.com/RenanCostaViana/cardio-olhar)
+
+### 🎒 **Passos Mágicos – Análise Educacional**  
+App Python + EDA com dataset próprio.  
+**Repositório:** [passos_magicos](https://github.com/RenanCostaViana/passos_magicos)
+
+### 📈 **BI Challenge – Excel, Power Query, SQL e VBA**  
+Dashboards e automações para logística, marketing e varejo.  
+**Repositório:** [Challenge-BI-1](https://github.com/RenanCostaViana/Challenge-BI-1)
+
+---
+
+## 🎓 Formação
+
+- Pós-Graduação em **Data Analytics** – FIAP  
+- Bacharelado em **Ciências Econômicas** – UFABC  
+- Certificações em Python, SQL, Power BI e BI pela Alura
+
+---
+
+## 📬 Conecte-se comigo
+
+📌 **LinkedIn:** https://linkedin.com/in/renancostaviana  
+📌 **E-mail:** renan.cv@outlook.com.br  
+📌 **GitHub:** você já está aqui 😉
+
+---
+
+### ✨ *Sempre aprendendo, sempre construindo. Meu objetivo é transformar dados em impacto real.*
