@@ -86,7 +86,7 @@ Dashboards e automações para logística, marketing e varejo.
 ## 📬 Conecte-se comigo
 
 📌 **LinkedIn:** https://linkedin.com/in/renancostaviana  
-📌 **Credly:** https://www.credly.com/users/renan-costa-viana
+📌 **Credly:** https://www.credly.com/users/renan-costa-viana  
 📌 **E-mail:** renan.cv@outlook.com.br  
 📌 **GitHub:** você já está aqui 😉
 
