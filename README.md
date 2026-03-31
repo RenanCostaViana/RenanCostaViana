@@ -22,7 +22,7 @@ Recém formado na Pós-Graduação em **Data Analytics (FIAP)** e desenvolvendo 
 ## 📂 Projetos em Destaque
 
 ### 🔥 1. **Pipeline Completo de Dados – Python + SQL + Power BI**  
-**Repositório:** [End-to-End Data Pipeline — Python, SQL e Power BI]((https://github.com/RenanCostaViana/end-to-end-data-pipeline-python-sql-powerbi))  
+**Repositório:** [End-to-End Data Pipeline — Python, SQL e Power BI](https://github.com/RenanCostaViana/end-to-end-data-pipeline-python-sql-powerbi)  
 Pipeline de ponta a ponta com ingestão, limpeza, EDA, modelagem e dashboard final. 
 - Python para tratamento e análise  
 - SQL para consultas e validações  
