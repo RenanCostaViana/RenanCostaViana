@@ -32,7 +32,7 @@ Pipeline de ponta a ponta com ingestão, limpeza, EDA, modelagem e dashboard fin
 ---
 
 ### 🤖 2. **Classificação de Nível de Obesidade (Machine Learning)**  
-**Repositório:** [obesity-level](https://github.com/RenanCostaViana/obesity-level)  
+**Repositório:** [Obesity Classification — Machine Learning Project](https://github.com/RenanCostaViana/obesity-classification-ml)  
 Modelo de classificação com comparação de algoritmos e métricas.  
 - EDA completa  
 - Pré-processamento  
@@ -42,7 +42,7 @@ Modelo de classificação com comparação de algoritmos e métricas.
 ---
 
 ### 🧠 3. **HR Analytics – Previsão de Saída de Funcionários**  
-**Repositório:** (em breve separado da pós)  
+**Repositório:** [HR Analytics — Employee Churn Prediction](https://github.com/RenanCostaViana/hr-analytics-employee-churn)
 Modelo de classificação para prever turnover.  
 - Feature engineering  
 - Comparação de modelos  
@@ -51,7 +51,7 @@ Modelo de classificação para prever turnover.
 ---
 
 ### 🍷 4. **Análise de Vinhos Tintos Portugueses (EDA + Storytelling)**  
-**Repositório:** (em breve separado da pós)  
+**Repositório:** [Portuguese Wine Quality — Exploratory Data Analysis](https://github.com/RenanCostaViana/portuguese-wine-quality-eda)
 Exploração completa do dataset, correlações e fatores que influenciam a qualidade.  
 - Visualizações  
 - Insights  
@@ -63,15 +63,15 @@ Exploração completa do dataset, correlações e fatores que influenciam a qual
 
 ### 🩺 **Cardio Olhar – Análise de Saúde**  
 Aplicação Python estruturada com análise de dados clínicos.  
-**Repositório:** [cardio-olhar](https://github.com/RenanCostaViana/cardio-olhar)
+**Repositório:** [Cardiovascular Data Analysis](https://github.com/RenanCostaViana/cardiovascular-data-analysis)
 
 ### 🎒 **Passos Mágicos – Análise Educacional**  
 App Python + EDA com dataset próprio.  
-**Repositório:** [passos_magicos](https://github.com/RenanCostaViana/passos_magicos)
+**Repositório:** [Plataforma Analítica Passos Mágicos – 2024](https://github.com/RenanCostaViana/passos-magicos-data-app)
 
 ### 📈 **BI Challenge – Excel, Power Query, SQL e VBA**  
 Dashboards e automações para logística, marketing e varejo.  
-**Repositório:** [Challenge-BI-1](https://github.com/RenanCostaViana/Challenge-BI-1)
+**Repositório:** [BI Challenge – Logística, Marketing e Varejo](https://github.com/RenanCostaViana/bi-challenge-logistics-marketing-retail)
 
 ---
 
