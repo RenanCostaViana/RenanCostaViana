@@ -5,7 +5,7 @@
 
 Economista com experiência em Tesouraria (ALM), Inteligência de Negócios e Análise de Dados.  
 Atuo construindo análises, modelos e dashboards que impulsionam eficiência, performance e tomada de decisão.  
-Atualmente cursando Pós-Graduação em **Data Analytics (FIAP)** e desenvolvendo projetos práticos em **Python, SQL, Machine Learning e BI**.
+Recém formado na Pós-Graduação em **Data Analytics (FIAP)** e desenvolvendo projetos práticos em **Python, SQL, Machine Learning e BI**.
 
 ---
 
