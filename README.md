@@ -22,9 +22,9 @@ Recentemente, no Grupo HOPE, conduzi como responsável único o desenho de uma p
 
 ## 📂 Projetos em Destaque
 
-### 🔥 End-to-End Data Pipeline — Python + SQL + Power BI
-**Repositório:** [end-to-end-data-pipeline-python-sql-powerbi](https://github.com/RenanCostaViana/end-to-end-data-pipeline-python-sql-powerbi)
-Pipeline completo de dados, passando por coleta, tratamento, modelagem e visualização — Python para ETL, SQL para modelagem e validações, Power BI para dashboards com KPIs de negócio.
+### 💳 Credit Risk Analysis — SQL, Python & Power BI
+**Repositório:** [credit-risk-analysis-sql-python-powerbi](https://github.com/RenanCostaViana/credit-risk-analysis-sql-python-powerbi)
+Análise de risco de crédito de ponta a ponta: consolidação de dados em SQL (tratamento de nulos, joins entre tabelas normalizadas), tratamento de outliers e modelo preditivo de inadimplência em Python (Random Forest, AUC > 0,90), e dashboard executivo em Power BI.
 
 ### 📈 Ibovespa ML Analysis — Data & Financial Analytics
 **Repositório:** [ibovespa-ml-analysis](https://github.com/RenanCostaViana/ibovespa-ml-analysis)
