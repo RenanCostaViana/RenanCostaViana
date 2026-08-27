@@ -1,95 +1,52 @@
 # 👋 Olá! Eu sou o Renan Costa Viana
 
-### 📊 Analista de Dados & Business Intelligence  
-### 🔍 Transformo dados em decisões estratégicas usando Python, SQL e Power BI
+### 📊 Analista de Dados & Business Intelligence | Arquitetura & Modelagem de Dados
 
-Economista com experiência em Tesouraria (ALM), Inteligência de Negócios e Análise de Dados.  
-Atuo construindo análises, modelos e dashboards que impulsionam eficiência, performance e tomada de decisão.  
-Recém formado na Pós-Graduação em **Data Analytics (FIAP)** e desenvolvendo projetos práticos em **Python, SQL, Machine Learning e BI**.
+### 🔍 Transformo dados complexos em decisões de negócio, usando Python, SQL, Power BI e Microsoft Fabric
+
+Atuo com foco em arquitetura de dados, modelagem e tradução de regras de negócio em soluções analíticas. Tenho formação em Economia e uso ativo de IA generativa (Claude) como copiloto de desenvolvimento e análise — o que me permite acelerar entregas sem abrir mão de entender e validar cada decisão técnica.
+
+Recentemente, no Grupo HOPE, conduzi como responsável único o desenho de uma plataforma de customer analytics em Microsoft Fabric (arquitetura medalhão, Delta Lake), unindo arquitetura, modelagem de dados e regras de negócio à entrega de dashboards e indicadores para diferentes áreas do negócio.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Linguagens:** Python • SQL • DAX • VBA  
-**Ferramentas:** Power BI • Excel Avançado • Power Query • Power Pivot  
-**Bibliotecas:** Pandas • NumPy • Scikit-learn • Seaborn • Matplotlib  
-**Ambiente & Engenharia:** Git • Databricks • PySpark • dbt (básico)  
-**Outros:** Storytelling com dados • Modelagem de dados • ETL • Machine Learning
+**Linguagens:** Python • SQL • DAX • VBA
+**BI & Dados:** Power BI • Microsoft Fabric (Lakehouse, Delta Lake) • Excel Avançado • Power Query
+**Bibliotecas:** Pandas • NumPy • Scikit-learn • Seaborn • Matplotlib
+**Ambiente & Engenharia:** Git • PySpark • Azure Databricks • dbt
+**Outros:** IA Generativa (Claude) como copiloto • Arquitetura de Dados • Modelagem de Dados • ETL • Estatística Aplicada
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🔥 1. **Pipeline Completo de Dados – Python + SQL + Power BI**  
-**Repositório:** [End-to-End Data Pipeline — Python, SQL e Power BI](https://github.com/RenanCostaViana/end-to-end-data-pipeline-python-sql-powerbi)  
-Pipeline de ponta a ponta com ingestão, limpeza, EDA, modelagem e dashboard final. 
-- Python para tratamento e análise  
-- SQL para consultas e validações  
-- Power BI para KPIs e storytelling  
-- Insights acionáveis para negócio
+### 🔥 End-to-End Data Pipeline — Python + SQL + Power BI
+**Repositório:** [end-to-end-data-pipeline-python-sql-powerbi](https://github.com/RenanCostaViana/end-to-end-data-pipeline-python-sql-powerbi)
+Pipeline completo de dados, passando por coleta, tratamento, modelagem e visualização — Python para ETL, SQL para modelagem e validações, Power BI para dashboards com KPIs de negócio.
 
----
+### 📈 Ibovespa ML Analysis — Data & Financial Analytics
+**Repositório:** [ibovespa-ml-analysis](https://github.com/RenanCostaViana/ibovespa-ml-analysis)
+Análise de dados históricos do Ibovespa para avaliar padrões, comportamentos e limitações do uso de Machine Learning em séries temporais financeiras — uma ponte entre minha bagagem em mercado financeiro e minha atuação em dados.
 
-### 🤖 2. **Classificação de Nível de Obesidade (Machine Learning)**  
-**Repositório:** [Obesity Classification — Machine Learning Project](https://github.com/RenanCostaViana/obesity-classification-ml)  
-Modelo de classificação com comparação de algoritmos e métricas.  
-- EDA completa  
-- Pré-processamento  
-- Teste de múltiplos modelos  
-- Matriz de confusão e avaliação
-
----
-
-### 🧠 3. **HR Analytics – Previsão de Saída de Funcionários**  
-**Repositório:** [HR Analytics — Employee Churn Prediction](https://github.com/RenanCostaViana/hr-analytics-employee-churn)
-Modelo de classificação para prever turnover.  
-- Feature engineering  
-- Comparação de modelos  
-- Insights para RH e retenção
-
----
-
-### 🍷 4. **Análise de Vinhos Tintos Portugueses (EDA + Storytelling)**  
-**Repositório:** [Portuguese Wine Quality — Exploratory Data Analysis](https://github.com/RenanCostaViana/portuguese-wine-quality-eda)
-Exploração completa do dataset, correlações e fatores que influenciam a qualidade.  
-- Visualizações  
-- Insights  
-- Análise estatística
-
----
-
-## 📊 Projetos Complementares
-
-### 🩺 **Cardio Olhar – Análise de Saúde**  
-Aplicação Python estruturada com análise de dados clínicos.  
-**Repositório:** [Cardiovascular Data Analysis](https://github.com/RenanCostaViana/cardiovascular-data-analysis)
-
-### 🎒 **Passos Mágicos – Análise Educacional**  
-App Python + EDA com dataset próprio.  
-**Repositório:** [Plataforma Analítica Passos Mágicos – 2024](https://github.com/RenanCostaViana/passos-magicos-data-app)
-
-### 📈 **BI Challenge – Excel, Power Query, SQL e VBA**  
-Dashboards e automações para logística, marketing e varejo.  
-**Repositório:** [BI Challenge – Logística, Marketing e Varejo](https://github.com/RenanCostaViana/bi-challenge-logistics-marketing-retail)
+### 🧠 HR Analytics — Employee Churn Prediction
+**Repositório:** [hr-analytics-employee-churn](https://github.com/RenanCostaViana/hr-analytics-employee-churn)
+Projeto de Machine Learning para prever a probabilidade de desligamento de colaboradores, incluindo EDA, engenharia de atributos e comparação de modelos de classificação.
 
 ---
 
 ## 🎓 Formação
 
-- Pós-Graduação em **Data Analytics** – FIAP  
-- Bacharelado em **Ciências Econômicas** – UFABC  
-- Certificações em Python, SQL, Power BI e BI pela Alura
+- Pós-Graduação Lato Sensu em **Data Analytics** — FIAP (2025–2026)
+- Bacharelado em **Ciências Econômicas** — UFABC (2011–2018)
+- Google Cloud Computing Foundations Certificate e Google Cloud Data Analytics Certificate — Google (2025)
 
 ---
 
 ## 📬 Conecte-se comigo
 
-📌 **LinkedIn:** https://linkedin.com/in/renancostaviana  
-📌 **Credly:** https://www.credly.com/users/renan-costa-viana  
-📌 **E-mail:** renan.cv@outlook.com.br  
+📌 **LinkedIn:** [linkedin.com/in/renancostaviana](https://linkedin.com/in/renancostaviana)
+📌 **Credly:** [credly.com/users/renan-costa-viana](https://www.credly.com/users/renan-costa-viana)
+📌 **E-mail:** [renan.cv@outlook.com.br](mailto:renan.cv@outlook.com.br)
 📌 **GitHub:** você já está aqui 😉
-
----
-
-### ✨ *Sempre aprendendo, sempre construindo. Meu objetivo é transformar dados em impacto real.*
