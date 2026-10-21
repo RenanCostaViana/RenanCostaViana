@@ -6,7 +6,7 @@
 
 Atuo com foco em arquitetura de dados, modelagem e tradução de regras de negócio em soluções analíticas. Tenho formação em Economia e uso ativo de IA generativa (Claude) como copiloto de desenvolvimento e análise — o que me permite acelerar entregas sem abrir mão de entender e validar cada decisão técnica.
 
-Recentemente, no Grupo HOPE, conduzi como responsável único o desenho de uma plataforma de customer analytics em Microsoft Fabric (arquitetura medalhão, Delta Lake), unindo arquitetura, modelagem de dados e regras de negócio à entrega de dashboards e indicadores para diferentes áreas do negócio.
+Recentemente, no Grupo HOPE, reestruturei como responsável único o pipeline de customer analytics em Microsoft Fabric: um processo mensal e manual virou um pipeline diário em arquitetura medalhão (Delta Lake), com modelo estrela em Power BI usado na reunião de B2C com a diretoria e a presidência.
 
 ---
 
@@ -36,7 +36,7 @@ Pipeline de Machine Learning sem vazamento de dados (encoders e SMOTE só no tre
 
 ### 💳 Credit Risk Analysis — SQL, Python & Power BI
 **Repositório:** [credit-risk-analysis-sql-python-powerbi](https://github.com/RenanCostaViana/credit-risk-analysis-sql-python-powerbi)
-Análise de risco de crédito de ponta a ponta: consolidação de dados em SQL, tratamento de outliers, modelo preditivo de inadimplência em Python e dashboard executivo em Power BI.
+Consolidação de quatro tabelas relacionais em SQL, modelo de inadimplência com tratamento ajustado só no treino (AUC 0,93) e análise do limiar de decisão: quantos maus pagadores o modelo barra e quantos bons clientes recusa em cada ponto de corte. Dashboard executivo em Power BI.
 
 ### 📈 Ibovespa — Séries Temporais e Limites da Previsão
 **Repositório:** [ibovespa-ml-analysis](https://github.com/RenanCostaViana/ibovespa-ml-analysis)
@@ -44,7 +44,7 @@ Análise de risco de crédito de ponta a ponta: consolidação de dados em SQL, 
 
 ### 🧠 HR Analytics — Employee Churn Prediction
 **Repositório:** [hr-analytics-employee-churn](https://github.com/RenanCostaViana/hr-analytics-employee-churn)
-Modelo de classificação para prever desligamento de colaboradores, com EDA, engenharia de atributos e comparação de modelos.
+Previsão de saída de colaboradores com seleção de modelos por validação cruzada e SMOTE dentro do pipeline (AUC 0,98). A análise identifica três perfis de saída com causas opostas — subaproveitados, sobrecarregados e bons profissionais que saem por oportunidade —, cada um pedindo uma ação de retenção diferente.
 
 ---
 
